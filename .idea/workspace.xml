@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="702b2fb5-559f-4e1a-b2af-5063bff1e06d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="702b2fb5-559f-4e1a-b2af-5063bff1e06d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -229,7 +227,7 @@
       <workItem from="1562394713637" duration="777000" />
       <workItem from="1562403774342" duration="780000" />
       <workItem from="1562420045378" duration="82000" />
-      <workItem from="1562424839383" duration="345000" />
+      <workItem from="1562424839383" duration="378000" />
     </task>
     <task id="LOCAL-00001" summary="blockchain">
       <created>1562424911477</created>
@@ -245,11 +243,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562425174424</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="blockchain">
+      <created>1562425187690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562425187690</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24959000" />
+    <option name="totallyTimeSpent" value="24992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
