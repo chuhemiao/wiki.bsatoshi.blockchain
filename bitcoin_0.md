@@ -17,7 +17,7 @@
 本系列主题将发布在gitbook上，托管在[github](https://github.com/chuhemiao/wiki.bsatoshi.blockchain)，并配套思维导图快速了解本主题可以学到什么，完全开源，欢迎大家贡献。
 
 
-[币聪学院区块链课程思维导图]()
+[币聪学院区块链课程思维导图](https://cdn.bsatoshi.com/2019/07/06/bitcoin_blockchain.png)
 
 
 ### 本主题第一阶段包括：比特币系列文章、区块链系列文章、炒币系列文章
