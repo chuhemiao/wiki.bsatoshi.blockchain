@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 币圈有哪些国外的渠道值得关注
 
 
@@ -37,6 +36,3 @@
 + [ERC20数字币信息查询](https://etherscan.io/)
 + [数据查询](https://messari.io/asset)
 + [关键字趋势查询](https://app.buzzsumo.com/discover/trending)
-=======
-# 币圈有哪些国外的渠道值得关注
->>>>>>> 1c8eb982ea65e020554a69b5515dc3e424ebe70c

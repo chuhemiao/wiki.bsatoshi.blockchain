@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 如何当一个合格的矿工
 
 
@@ -49,6 +48,3 @@
 ### 推荐阅读
 
 [挖矿从入门到精通](https://mining.one/tutorial-directory.html)
-=======
-# 如何当一个合格的矿工
->>>>>>> 1c8eb982ea65e020554a69b5515dc3e424ebe70c
