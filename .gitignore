@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 /.idea
 /_book
 /_book_cache
+=======
+/_book
+/_book_cache
+/node_modules
+>>>>>>> 1c8eb982ea65e020554a69b5515dc3e424ebe70c

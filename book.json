@@ -1,0 +1,65 @@
+{
+    "title": "币聪区块链开发、小白炒币最全的入门文档",
+    "author": "币聪-chuhemiao",
+    "description": "区块链开发、炒币最全的入门文档，炒币我们是认真的。 https://wiki.bsatoshi.com",
+    "language": "zh-hans",
+    "styles": {
+      "website": "./public-repertory/css/gitbook-configure.css"
+    },
+    "plugins": [
+      "theme-comscore",
+      "prism",
+      "-highlight",
+      "copy-code-button",
+      "search-pro",
+      "-search",
+      "-lunr",
+      "expandable-chapters",
+      "splitter",
+      "-sharing",
+      "github-buttons",
+      "tbfed-pagefooter",
+      "baidu-tongji",
+      "anchor-navigation-ex"
+    ],
+    "pluginsConfig": {
+      "github-buttons": {
+        "buttons": [
+          {
+            "user": "chuhemiao",
+            "repo": "document-library", 
+            "type": "star",
+            "count": true,
+            "size": "small"
+          }, 
+          {
+            "user": "chuhemiao",
+            "width": "160", 
+            "type": "follow", 
+            "count": true,
+            "size": "small"
+          }
+        ]
+      },
+      "prism": {
+        "css": [
+          "prismjs/themes/prism-solarizedlight.css"
+        ],
+        "lang": {
+          "shell": "bash"
+        }
+      },
+      "tbfed-pagefooter": {
+        "copyright":"Copyright & Bsatoshi 2019",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+      },
+      "baidu-tongji": {
+        "token": "55e7dfe47f4dc1c018d4042fdfa62565"
+      },
+      "anchor-navigation-ex": {
+        "showLevel": false
+      }
+    }
+  }
+  
