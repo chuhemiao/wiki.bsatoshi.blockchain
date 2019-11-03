@@ -1,6 +1,5 @@
 # 币圈有哪些国外的渠道值得关注
 
-
 ### 值得看的论坛
 
 + 首选的必须是bitcointalk论坛 https://bitcointalk.org
