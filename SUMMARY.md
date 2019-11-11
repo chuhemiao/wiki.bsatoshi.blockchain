@@ -3,7 +3,7 @@
 ### Part I
 
 * [README](README.md)
-* [比特币基础-0](bitcoin_0.md)
+* [导读](bitcoin_0.md)
 * [什么是比特币](bitcoin_1.md)
 * [为什么会出现比特币](bitcoin_2.md)
 * [为什么要持有比特币](bitcoin_12.md)
@@ -64,4 +64,40 @@
 * [炒币基础-借钱炒币这事靠谱吗？](buy_bitcoin_23.md)
 
 ### Part II
+
+* [比特币开发系列文章：虚拟机搭建比特币运行环境](dev_bitcoin_1.md)
+* [加密算法系列之：des加密、aes加密、3des加密、对称加密、非对称加密、Hash 算法](dev_mycrypto_go_des_aes.md)
+* [bip协议是什么](protocol_bip.md)
+* [raft协议是什么](protocol_raft.md)
+* [pbft协议是什么](protocol_pbft.md)
+* [侧链开发和跨链开发需要了解哪些知识](dev_sidechain.md)
+* [比特币交易流程](dev_bitcoin_2.md)
+* [比特币挖矿流程和默克尔树](dev_bitcoin_3.md)
+* [比特币多重签名](dev_bitcoin_4.md)
+* [比特币闪电网络](dev_bitcoin_5.md)
+* [eos区块链环境搭建](dev_eos_vote.md)
+* [eth区块链环境搭建](dev_eth_dapp.md)
+* [eth 开发快速开发一个dapp](dev_dapp_vote.md)
+
+
+### Part III
+
+* [Go语言基础入门课程](go_basic.md)
+* [Go语言基础常用包](go_package.md)
+* [Go语言之channel](go_channel.md)
+* [Go语言之select用法](go_select.md)
+* [细说Go语言之routine调度](go_routine.md)
+* [Go语言实现pos协议](go_pos.md)
+* [Go语言实现dpos协议](go_dpos.md)
+* [Go语言实现raft协议](go_raft.md)
+* [Go语言实现pbft协议](go_pbft.md)
+* [Go语言系列课程之solidity语法入门](go_solidity_summer.md)
+* [Go语言高级课程](go_expert.md)
+* [Go语言开发区块链实战](go_expert.md)
+
+### Part IV
+
+* [React实现区块链入门课程](react_dapp.md)
+* [Vue实现区块链入门课程](vue_dapp.md)
+* [cosmos 开发dapp](dev_cosmos.md)
 
