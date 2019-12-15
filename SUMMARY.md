@@ -76,13 +76,18 @@
 * [比特币多重签名](dev_bitcoin_4.md)
 * [比特币闪电网络](dev_bitcoin_5.md)
 * [eos区块链环境搭建](dev_eos_vote.md)
-* [eth区块链环境搭建](dev_eth_dapp.md)
+* [2020年Macos最全 ETH区块链环境搭建,并使用Truffle创建第一个Dapps](dev_eth_dapp.md)
 * [eth 开发快速开发一个dapp](dev_dapp_vote.md)
 
 
 ### Part III
 
 * [Go语言基础入门课程](go_basic.md)
+* [Golang 快速搭建开发环境](go_basic_env.md)
+* [Golang 基础语法](go_basic_program.md)
+* [Golang 基础之编码规范](go_basic_code_rule.md)
+* [Golang 基础之接口](go_basic_interface.md)
+* [Golang 基础之如何使用Go Module和Go proxy](go_mod_proxy.md)
 * [Go语言基础常用包](go_package.md)
 * [Go语言之channel](go_channel.md)
 * [Go语言之select用法](go_select.md)
