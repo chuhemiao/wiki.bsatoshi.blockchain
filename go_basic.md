@@ -14,53 +14,76 @@
 
 ### Go语言主要发展过程
 
-+ 2007年9月，雏形设计 ，Rob Pike（罗伯.派克） 正式命名为Go；
+
+
++ 2019 年 9 月，Go1.13 发布。增强了modules，新增了环境变量 GOPRIVATE 和 GOSUMDB, GOPROXY 支持多个，支持了 ErrorWraping；
+
+
+
++ 2019 年 2 月，Go1.12 发布，支持了 TLS1.3，改进了 modules，优化运行时和标准库；
+
+
+
++ 2018 年 8 月，Go1.11 发布，实验性支持 modules，实验性支持 WebAssembly；
+
+
+
++ 2018 年 2 月，Go1.10 发布，go tool 缓存编译，编译加速，很多细微的改进；
+
+
+
++ 2018 年 1 月，Hello, 中国! 及中国站镜像上线，大陆可以访问官网资源；
+
+
+
++ 2017 年 8 月，Go1.9 发布，支持 Type Alias、sync.Map，使用场景参考 slides，time 保持单增避免时间测量问题；
+
+
+
++ 2017 年 2 月，Go1.8 发布，显著的性能提升，GC 延迟降低到了 10us 到 100us，支持 HTTP/2 Push，HTTP Server 支持 Shutdow, sort.Slice 使排序使用更简单；
+
+
+
++ 2016 年 8 月，Go1.7 发布，支持了 Context，Context 在 K8s 和 Docker 中都有应用，新的编译算法减少 20%-30% 的二进制尺寸；
+
+
+
++ 2016 年 2 月，Go1.6发布，支持 HTTP/2，HTTPS 时会默认开启 HTTP/2，正式支持vendor；
+
+
+
++ 2015 年 8 月，Go1.5 发布，完全用 Go 代替了 C 代码，完全重新设计和重新实现 GC，支持 internal 的 package，实验性支持 vendor，GOMAXPROCS 默认为 CPU 个数；
+
+
+
++ 2014 年 12 月，Go1.4 发布，支持 Android，从 Mecurial 迁移到了 Git，从 GoogleCode 迁移到了 Github:golang/go，大部分 runtime 的代码从 C 改成了 Go，for 支持三种迭代写法；
+
+
+
++ 2014 年 6 月，Go1.3 发布，支持了 FreeBSD、Plan9、Solaris 等系统；
+
+
+
++ 2013 年 12 月，Go1.2 发布，新增收集覆盖率工具 coverage，限制了最高线程数 ThreadLimit；
+
+
+
++ 2013 年 5 月，Go1.1 发布，主要是包含性能优化，新增 Data Race Detector 等；
+
+
+
++ 2012 年 3 月，Go1.0 发布，包含了基本的语言元素比如 rune、error、map，标准库包括 bufio、crypto、flag、http、net、os、regexp、runtime、unsafe、url、encoding 等；
+
+
+
++ 2009 年 11 月, Google 宣布要开发一门新语言，既要开源，又有 Python 的好处，还要有 C/C++ 的性能。Go 是 BSD 的 License，大部分 Go 的项目都是 BSD 或 MIT 或 Apache 等商业友好的协议。
 
 + 2008年5月，Google全力支持该项目；
 
-+ 2009年11月10日，首次公开发布，Go将代码全部开源，它获得了当年的年度语言；
 
-+ 2011年3月16日，Go语言的第一个稳定(stable)版本r56发布。
++ 2007年9月，雏形设计 ，Rob Pike（罗伯.派克） 正式命名为Go；
 
-+ 2012年3月28日，Go语言的第一个正式版本Go1发布。
 
-+ 2013年4月04日，Go语言的第一个Go 1.1beta1测试版发布。
-
-+ 2013年4月08日，Go语言的第二个Go 1.1beta2测试版发布。
-
-+ 2013年5月02日，Go语言Go 1.1RC1版发布。
-
-+ 2013年5月07日，Go语言Go 1.1RC2版发布。
-
-+ 2013年5月09日，Go语言Go 1.1RC3版发布。
-
-+ 2013年5月13日，Go语言Go 1.1正式版发布。
-
-+ 2013年9月20日，Go语言Go 1.2RC1版发布。
-
-+ 2013年12月1日，Go语言Go 1.2正式版发布。
-
-+ 2014年6月18日，Go语言Go 1.3版发布。
-
-+ 2014年12月10日，Go语言Go 1.4版发布。
-
-+ 2015年8月19日，Go语言Go 1.5版发布，本次更新中移除了”最后残余的C代码”。
-
-+ 2016年2月17日，Go语言Go 1.6版发布。
-
-+ 2016年8月15日，Go语言Go 1.7版发布。
-
-+ 2017年2月17日，Go语言Go 1.8版发布。
-
-+ 2017年8月24日，Go语言Go 1.9版发布。
-
-+ 2018年2月16日，Go语言Go 1.10版发布。
-
-+ 2018年8月24日，Go语言Go 1.11版发布。
-
-+ 2019年2月25日，GO语言Go1.12版发布。
-
-+ 2019年9月4日，GO语言Go1.13版发布。
 
 ### Go是一门以软件工程为目的的语言设计
 
@@ -186,3 +209,7 @@
 ### Golang脚手架
 
 + [go-admin](https://github.com/GoAdminGroup/go-admin) 
+
+### 推荐阅读
+
++ [Go 开发关键技术指南 | 为什么你要选择 Go？](https://mp.weixin.qq.com/s/tXL_vXqIvHqafuwyGMofVw)
